@@ -6,7 +6,7 @@
 
 ## 🔗 Project Link
 
-👉 [GitHub Repository](https://github.com/Ayushsaha004/Traffic-Sign-Detector)
+👉 [GitHub Repository](https://github.com/Ayushsaha004/Traffic-Sign-Detector-)
 
 ---
 
