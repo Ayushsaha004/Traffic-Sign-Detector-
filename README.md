@@ -70,9 +70,9 @@ A custom CNN comprising:
 | Metric     | Score    |
 |------------|----------|
 | Accuracy   | **99.83%** |
-| Precision  | 1.00     |
-| Recall     | 1.00     |
-| F1-Score   | 1.00     |
+| Precision  | 100%     |
+| Recall     | 100%     |
+| F1-Score   | 100%     |
 
 - Excellent detection of signs like **"No entry"**, **"Speed limit (20km/h)"**, etc.
 - Very few errors on visually similar or rare signs.
