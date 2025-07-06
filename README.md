@@ -139,8 +139,8 @@ Need help? Feel free to **reach out to me anytime**!
 
 I'm **Ayush Saha**, a final-year student at MCKV Institute of Engineering passionate about AI, deep learning, and intelligent systems. I'm actively looking for **internship or full-time roles in Machine Learning or Software Development**.
 
-📧 Reach me at: **ayushsahaofficial@gmail.com**  
-🔗 [LinkedIn Profile](https://www.linkedin.com/in/ayushsaha004)
+📧 Reach me at: **ayush4saha@gmail.com**  
+🔗 [LinkedIn Profile](https://www.linkedin.com/in/ayush-saha-668204300/)
 
 ---
 
