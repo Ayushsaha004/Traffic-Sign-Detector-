@@ -1,6 +1,6 @@
 # 🚦 Traffic Sign Detection using CNN
 
-![Traffic Sign Classification](https://upload.wikimedia.org/wikipedia/commons/thumb/4/45/Traffic_Sign.svg/1024px-Traffic_Sign.svg.png)
+![Traffic Sign Classification](https://upload.wikimedia.org/wikipedia/commons/1/16/UK_traffic_sign_602.svg)
 
 > A high-performance deep learning model achieving **99.83% accuracy** on the GTSRB dataset for traffic sign classification.
 
